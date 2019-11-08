@@ -1,0 +1,17 @@
+C:\Users\havineet\source\repos\RegExpr\RegexTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\havineet\source\repos\RegExpr\RegexTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\havineet\source\repos\RegExpr\RegexTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\havineet\source\repos\RegExpr\RegexTest\bin\Debug\netcoreapp2.2\RegexTest.deps.json
+C:\Users\havineet\source\repos\RegExpr\RegexTest\bin\Debug\netcoreapp2.2\RegexTest.runtimeconfig.json
+C:\Users\havineet\source\repos\RegExpr\RegexTest\bin\Debug\netcoreapp2.2\RegexTest.runtimeconfig.dev.json
+C:\Users\havineet\source\repos\RegExpr\RegexTest\bin\Debug\netcoreapp2.2\RegexTest.dll
+C:\Users\havineet\source\repos\RegExpr\RegexTest\bin\Debug\netcoreapp2.2\RegexTest.pdb
+C:\Users\havineet\source\repos\RegExpr\RegexTest\bin\Debug\netcoreapp2.2\RegExpr.dll
+C:\Users\havineet\source\repos\RegExpr\RegexTest\bin\Debug\netcoreapp2.2\RegExpr.pdb
+C:\Users\havineet\source\repos\RegExpr\RegexTest\obj\Debug\netcoreapp2.2\RegexTest.csprojAssemblyReference.cache
+C:\Users\havineet\source\repos\RegExpr\RegexTest\obj\Debug\netcoreapp2.2\RegexTest.csproj.CoreCompileInputs.cache
+C:\Users\havineet\source\repos\RegExpr\RegexTest\obj\Debug\netcoreapp2.2\RegexTest.AssemblyInfoInputs.cache
+C:\Users\havineet\source\repos\RegExpr\RegexTest\obj\Debug\netcoreapp2.2\RegexTest.AssemblyInfo.cs
+C:\Users\havineet\source\repos\RegExpr\RegexTest\obj\Debug\netcoreapp2.2\RegexTest.csproj.CopyComplete
+C:\Users\havineet\source\repos\RegExpr\RegexTest\obj\Debug\netcoreapp2.2\RegexTest.dll
+C:\Users\havineet\source\repos\RegExpr\RegexTest\obj\Debug\netcoreapp2.2\RegexTest.pdb

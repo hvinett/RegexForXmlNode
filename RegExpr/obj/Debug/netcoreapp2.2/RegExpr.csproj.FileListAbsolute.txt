@@ -1,0 +1,8 @@
+C:\Users\havineet\source\repos\RegExpr\RegExpr\bin\Debug\netcoreapp2.2\RegExpr.deps.json
+C:\Users\havineet\source\repos\RegExpr\RegExpr\bin\Debug\netcoreapp2.2\RegExpr.dll
+C:\Users\havineet\source\repos\RegExpr\RegExpr\bin\Debug\netcoreapp2.2\RegExpr.pdb
+C:\Users\havineet\source\repos\RegExpr\RegExpr\obj\Debug\netcoreapp2.2\RegExpr.csproj.CoreCompileInputs.cache
+C:\Users\havineet\source\repos\RegExpr\RegExpr\obj\Debug\netcoreapp2.2\RegExpr.AssemblyInfoInputs.cache
+C:\Users\havineet\source\repos\RegExpr\RegExpr\obj\Debug\netcoreapp2.2\RegExpr.AssemblyInfo.cs
+C:\Users\havineet\source\repos\RegExpr\RegExpr\obj\Debug\netcoreapp2.2\RegExpr.dll
+C:\Users\havineet\source\repos\RegExpr\RegExpr\obj\Debug\netcoreapp2.2\RegExpr.pdb
